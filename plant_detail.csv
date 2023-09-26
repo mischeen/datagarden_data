@@ -82,7 +82,6 @@
 80,Artemisia vulgaris,Beifuß,Asteraceae,60,120,1,alone - very small group,1,3,70,2,very sunny,very sunny,4,4,July,7,August,8,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
 81,Aruncus dioicus,Wald-Geißbart,Rosaceae,100,180,1,alone - very small group,1,3,100,1,very shady,mostly shady,1,2,June,6,July,7,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE
 82,Asarum europaeum,Heimische Haselwurz,Aristolochiaceae,10,15,4,very big groups,20,50,25,16,very shady,mostly sunny,1,3,March,3,April,4,winterhardy,2,1,toxic,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
-83,Asplenium trichomanes,"Brauner Streifenfarn, Steinfeder",Aspleniaceae,10,20,2,small group,3,10,20,25,mostly shady,mostly sunny,2,3,,,,,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 84,Aster alpinus 'Dunkle Schöne',Alpen-Aster,Asteraceae,25,25,1,alone - very small group,1,3,20,25,very sunny,very sunny,4,4,May,5,June,6,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 85,Aster alpinus 'Happy End',Alpen-Aster,Asteraceae,25,25,1,alone - very small group,1,3,20,25,very sunny,very sunny,4,4,May,5,June,6,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 86,Aster amellus 'Mira',"Berg-Aster, Sommer-Aster",Asteraceae,40,40,2,small group,3,10,40,6,very sunny,very sunny,4,4,July,7,September,9,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
@@ -108,14 +107,12 @@
 106,Astrantia major 'Elmblut',Rote Sterndolde,Apiaceae,40,60,2,small group,3,10,40,6,mostly shady,mostly sunny,2,3,June,6,July,7,winterhardy given some support,1,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 107,Astrantia major 'Florence' ,Rosa Sterndolde,Apiaceae,40,60,2,small group,3,10,45,4,mostly shady,very sunny,2,4,June,6,July,7,winterhardy given some support,1,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 108,Astrantia major 'Primadonna',Purpur Sterndolde,Apiaceae,50,70,2,small group,3,10,45,4,mostly shady,mostly sunny,2,3,June,6,July,7,winterhardy given some support,1,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-109,Athyrium filix-femina,Wald-Frauenfarn,Woodsiaceae,80,120,2,small group,3,10,70,2,very shady,mostly shady,1,2,,,,,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 110,Aubrieta Hybride 'Blaumeise',Blaukissen,Brassicaceae,5,10,2,small group,3,10,30,11,very sunny,very sunny,4,4,April,4,May,5,winterhardy given some support,1,0,not toxic,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
 111,Aubrieta Hybride 'Hamburger Stadtpark',Blaukissen,Brassicaceae,5,10,2,small group,3,10,30,11,very sunny,very sunny,4,4,April,4,May,5,winterhardy given some support,1,0,not toxic,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
 112,Aubrieta Hybride 'Kitty',Blaukissen,Brassicaceae,5,10,2,small group,3,10,30,11,very sunny,very sunny,4,4,April,4,May,5,winterhardy given some support,1,0,not toxic,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
 113,Barbarea verna,Frühlings-Barbarakraut,Brassicaceae,30,30,2,small group,3,10,20,25,mostly shady,very sunny,2,4,April,4,May,5,winterhardy given some support,1,0,not toxic,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
 114,Bergenia Hybride 'Eroica',Bergenie,Saxifragaceae,25,40,2,small group,3,10,40,6,mostly shady,very sunny,2,4,April,4,May,5,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
 115,Bergenia Hybride 'Herbstblüte',Bergenie,Saxifragaceae,25,40,2,small group,3,10,40,6,mostly shady,very sunny,2,4,April,4,May,5,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
-116,Blechnum spicant,Rippenfarn,Blechnaceae,30,30,2,small group,3,10,35,8,very shady,mostly shady,1,2,,,,,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 117,Briza media,Herz-Zittergras,Poaceae,20,40,2,small group,3,10,35,8,mostly sunny,very sunny,3,4,May,5,July,7,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
 118,Brunnera macrophylla,Kaukasusvergissmeinnicht,Boraginaceae,30,50,2,small group,3,10,40,6,mostly shady,very sunny,2,4,April,4,June,6,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 119,Brunnera macrophylla 'Betty Bowring',Weißes Kaukasusvergissmeinnicht,Boraginaceae,30,40,2,small group,3,10,35,8,mostly shady,mostly sunny,2,3,April,4,June,6,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
@@ -211,8 +208,6 @@
 209,Diplotaxis tenuifolia,"Stauden-Rucola, Rauke",Brassicaceae,20,50,2,small group,3,10,25,16,mostly shady,very sunny,2,4,July,7,September,9,winterhardy given some support,1,0,not toxic,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 210,Doronicum orientale 'Magnificum',Gämswurz,Asteraceae,40,50,2,small group,3,10,30,11,mostly sunny,very sunny,3,4,April,4,May,5,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
 211,Dryas x suendermannii,Garten-Silberwurz,Rosaceae,5,15,3,bigger groups,10,20,30,11,very sunny,very sunny,4,4,May,5,June,6,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-212,Dryopteris affinis,Goldschuppenfarn,Dryopteridaceae,50,100,2,small group,3,10,70,2,mostly shady,mostly sunny,2,3,,,,,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
-213,Dryopteris filix-mas,Wurmfarn,Dryopteridaceae,80,120,2,small group,3,10,70,2,very shady,mostly sunny,1,3,,,,,winterhardy,2,1,toxic,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
 214,Echinacea pallida,Sonnenhut,Asteraceae,80,80,2,small group,3,10,35,8,very sunny,very sunny,4,4,July,7,September,9,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 215,Echinacea pallida 'Hula Dancer',Sonnenhut,Asteraceae,80,80,2,small group,3,10,35,8,very sunny,very sunny,4,4,July,7,September,9,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 216,Echinacea purpurea,"Purpur-Sonnenhut, Igelkopf",Asteraceae,80,100,2,small group,3,10,35,8,very sunny,very sunny,4,4,July,7,September,9,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
@@ -393,7 +388,6 @@
 391,Malva sylvestris var. mauritiana,Dunkle Weg-Malve,Malvaceae,50,100,2,small group,3,10,60,2,very sunny,very sunny,4,4,June,6,September,9,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 392,Marrubium vulgare,"Andorn, Mäuseohr",Lamiaceae,40,60,2,small group,3,10,40,6,very sunny,very sunny,4,4,June,6,August,8,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
 393,Matricaria caucasica,Teppich-Kamille,Asteraceae,10,15,3,bigger groups,10,20,25,16,very sunny,very sunny,4,4,June,6,July,7,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
-394,Matteuccia struthiopteris,"Straußenfarn, Trichterfarn",Woodsiaceae,80,120,3,bigger groups,10,20,90,1,very shady,mostly shady,1,2,,,,,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 395,Melica ciliata,Wimper-Perlgras,Poaceae,30,60,2,small group,3,10,30,11,mostly sunny,very sunny,3,4,May,5,June,6,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
 396,Melissa officinalis,Zitronen-Melisse,Lamiaceae,50,80,1,alone - very small group,1,3,45,4,mostly shady,very sunny,2,4,June,6,August,8,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
 397,Melittis melissophyllum,Immenblatt,Lamiaceae,30,50,2,small group,3,10,35,8,mostly shady,very sunny,2,4,May,5,June,6,winterhardy given some support,1,0,not toxic,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
@@ -440,7 +434,6 @@
 438,Origanum vulgare 'Compactum',"Oregano, Polster-Dost",Lamiaceae,20,20,2,small group,3,10,20,25,very sunny,very sunny,4,4,July,7,September,9,winterhardy,2,0,not toxic,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 439,Origanum vulgare 'Thumbles Variety',Gelber Dost,Lamiaceae,25,25,2,small group,3,10,30,11,mostly sunny,very sunny,3,4,July,7,September,9,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 440,Ornithogalum umbellatum,Stern von Bethlehem,Hyacinthaceae,15,25,2,small group,3,10,10,20,mostly shady,very sunny,2,4,April,4,May,5,winterhardy,2,1,toxic,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
-441,Osmunda regalis,Königsfarn,Osmundaceae,120,150,1,alone - very small group,1,3,120,1,very shady,very sunny,1,4,,,,,winterhardy,2,0,not toxic,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 442,Paeonia lactiflora 'Dancing Butterflies',Edel-Pfingstrose,Paeoniaceae,80,90,1,alone - very small group,1,3,90,1,very sunny,very sunny,4,4,May,5,June,6,winterhardy given some support,1,1,toxic,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
 443,Paeonia lactiflora 'Jan van Leeuwen',Edel-Pfingstrose,Paeoniaceae,70,90,1,alone - very small group,1,3,80,1,very sunny,very sunny,4,4,May,5,June,6,winterhardy given some support,1,1,toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 444,Paeonia lactiflora 'Krinkled White',Edel-Pfingstrose,Paeoniaceae,80,90,1,alone - very small group,1,3,90,1,very sunny,very sunny,4,4,June,6,June,6,winterhardy given some support,1,1,toxic,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
@@ -469,7 +462,6 @@
 467,Phlox paniculata 'Werner Dittrich',Sommer-Phlox,Polemoniaceae,120,120,1,alone - very small group,1,3,50,4,mostly shady,very sunny,2,4,August,8,September,9,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 468,Phlox paniculata 'Wildfang',Sommer-Phlox,Polemoniaceae,100,100,1,alone - very small group,1,3,50,4,mostly shady,very sunny,2,4,July,7,August,8,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 469,Phragmites australis,"Schilf, Schilfrohr",Poaceae,150,400,5,large surfaces,50,100,45,4,very sunny,very sunny,4,4,July,7,September,9,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
-470,Phyllitis scolopendrium,Hirschzunge,Aspleniaceae,30,60,2,small group,3,10,35,8,very shady,mostly shady,1,2,,,,,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 471,Pimpinella saxifraga,Kleine Bibernelle,Apiaceae,30,50,2,small group,3,10,30,11,mostly shady,very sunny,2,4,July,7,September,9,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE
 472,Plantago lanceolata,Spitz-Wegerich,Plantaginaceae,20,40,2,small group,3,10,25,16,very sunny,very sunny,4,4,May,5,September,9,winterhardy given some support,1,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 473,Polemonium caeruleum,"Jakobsleiter, Himmelsleiter",Polemoniaceae,60,80,2,small group,3,10,40,6,mostly shady,very sunny,2,4,June,6,July,7,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
@@ -477,8 +469,6 @@
 475,Polygonatum multiflorum,Vielblütiges Salomonssiegel,Convallariaceae,50,60,2,small group,3,10,30,11,very shady,mostly shady,1,2,May,5,June,6,winterhardy,2,1,toxic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 476,Polygonatum odoratum,Duft-Salomonssiegel,Convallariaceae,20,40,2,small group,3,10,30,11,mostly shady,very sunny,2,4,May,5,June,6,winterhardy,2,1,toxic,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
 477,Polygonum bistorta 'Superbum',Schlangen-Knöterich,Polygonaceae,60,80,2,small group,3,10,40,6,mostly shady,very sunny,2,4,June,6,July,7,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
-478,Polypodium vulgare,Tüpfelfarn,Polypodiaceae,20,40,2,small group,3,10,35,8,very shady,mostly shady,1,2,,,,,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
-479,Polystichum aculeatum,Glanz-Schildfarn,Dryopteridaceae,50,80,2,small group,3,10,50,4,mostly shady,mostly sunny,2,3,,,,,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
 480,Potentilla aurea,Gold-Fingerkraut,Rosaceae,10,10,2,small group,3,10,25,16,very sunny,very sunny,4,4,May,5,June,6,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 481,Potentilla erecta,"Blutwurz, Tormentill",Rosaceae,15,30,2,small group,3,10,25,16,very sunny,very sunny,4,4,June,6,August,8,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
 482,Potentilla neumanniana,Frühlings-Fingerkraut,Rosaceae,5,15,2,small group,3,10,25,16,very sunny,very sunny,4,4,April,4,June,6,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
@@ -593,7 +583,6 @@
 591,Thalictrum aquilegiifolium,Akeleiblättrige Wiesenraute,Ranunculaceae,100,120,1,alone - very small group,1,3,50,4,mostly shady,very sunny,2,4,June,6,July,7,winterhardy,2,0,not toxic,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
 592,Thalictrum flavum ssp. glaucum,Gelbe Wiesenraute,Ranunculaceae,120,150,1,alone - very small group,1,3,70,2,mostly shady,very sunny,2,4,July,7,August,8,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
 593,Thalictrum lucidum,Hohe Wiesenraute,Ranunculaceae,150,150,1,alone - very small group,1,3,100,1,very sunny,very sunny,4,4,June,6,July,7,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
-594,Thelypteris palustris,Sumpf-Lappenfarn,Thelypteridaceae,30,80,2,small group,3,10,35,8,mostly shady,very sunny,2,4,,,,,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 595,Thermopsis lanceolata,Goldlupine,Fabaceae,60,60,1,alone - very small group,1,3,45,4,very sunny,very sunny,4,4,May,5,June,6,winterhardy,2,0,not toxic,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 596,Thymus longicaulis ssp. odoratus,Kaskaden-Thymian,Lamiaceae,10,15,1,alone - very small group,1,3,40,6,very sunny,very sunny,4,4,June,6,July,7,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
 597,Thymus pulegioides,Echter Quendel,Lamiaceae,5,10,2,small group,3,10,30,11,very sunny,very sunny,4,4,June,6,August,8,winterhardy,2,0,not toxic,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
